@@ -2,6 +2,7 @@
   --mcolor: #ff9800;
 }
 body {
+  margin:0;
   font-family: "Open Sans", sans-serif;
 }
 * {
