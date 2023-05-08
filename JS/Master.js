@@ -32,7 +32,8 @@ if (backStatus !== null) {
 let setting = document.querySelector(".setting-box");
 let icon = document.querySelector(".icon");
 
-icon.onclick = function () {
+icon.onclick = function() {
+  console.log(222222);
   setting.classList.toggle("open");
 };
 
